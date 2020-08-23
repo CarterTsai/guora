@@ -7,7 +7,7 @@
 
 🖖🏻 A self-hosted Quora like web application written in Go
 
-基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+基於Golang類似知乎的私有部署問答應用包含問答，評論，點贊，管理後台等功能
 
 ## Quick Start
 
@@ -27,7 +27,7 @@ $ go mod download
 
 ### 3.Edit [conf/configuration.yaml](conf/configuration.yaml)
 
-`Open it and edit your redis config. 打开配置文件并编辑你的 redis 环境配置。`
+`Open it and edit your redis config. 配置文件並編輯你的redis環境配置。`
 
 ### 4.Init and Run
 
@@ -41,8 +41,8 @@ visit [localhost:8080](http://localhost:8080) and log in as admin
 
 |                     |                 |
 | ------------------- | --------------- |
-| mail (默认邮箱)     | admin@localhost |
-| password (默认密码) | mypassword      |
+| mail (預設Email)    | admin@localhost |
+| password (預設密碼) | mypassword      |
 
 ## Run Test
 

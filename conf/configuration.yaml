@@ -6,7 +6,7 @@ redis:
   password:
   db: 0
 admin:
-  name: Guora Robot (管理员)
+  name: Guora Robot (管理員)
   mail: admin@localhost
   password: mypassword
 secretkey: JustWriteSomethingWhatYouLike
